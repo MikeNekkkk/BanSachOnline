@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						 Copyright © 2021
+						 Copyright © 2024
 
 					</div>
 					<div class="col-md-6">
