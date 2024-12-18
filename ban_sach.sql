@@ -124,8 +124,9 @@ CREATE TABLE `loginuser` (
 --
 
 INSERT INTO `loginuser` (`email`, `matkhau`, `HoTen`, `DienThoai`) VALUES
-('thanh@gmail.com', 123, 'Thanh Truong', '1234567890'),
-('tungvu@gmail.com', 123, 'Vũ Đình Tùng', '0123456789');
+('maihuyen@gmail.com', 123, 'Mai Huyền', '1234567890'),
+('khanhphuong@gmail.com', 123, 'Ngô Trần Khánh Phương', '0123456789');
+('hoailinh@gmail.com', 123, 'Nguyễn Thị Hoài Linh', '0123456789');
 
 -- --------------------------------------------------------
 
